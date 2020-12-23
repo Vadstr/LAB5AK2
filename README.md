@@ -116,4 +116,4 @@ static int helloFunction(uint n);
 ```
 ### Результати роботи
 
-![result](result.png)
+![result](result.jpg)
